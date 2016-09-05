@@ -1,21 +1,21 @@
-﻿Построение начато 05.09.2016 10:19:53.
-     1>Проект "F:\Labs\Git\Class\Class\Class.vcxproj" в узле 2 (целевые объекты build).
+﻿Построение начато 05.09.2016 19:57:24.
+     1>Проект "F:\Labs\Git\First_Class\Class\Class.vcxproj" в узле 2 (целевые объекты build).
      1>InitializeBuildStatus:
          Создание "Debug\Class.unsuccessfulbuild", так как было задано "AlwaysCreate".
        ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 1.cpp
          1.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Labs\Git\Class\Debug\Class.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Class.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Labs\Git\Class\Debug\Class.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Labs\Git\Class\Debug\Class.lib" /MACHINE:X86 Debug\1.obj
-         LINK : не найден или не выполнена сборка F:\Labs\Git\Class\Debug\Class.exe при последней инкрементной компоновке; выполняется полная компоновка
-         Class.vcxproj -> F:\Labs\Git\Class\Debug\Class.exe
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Labs\Git\First_Class\Debug\Class.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Class.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Labs\Git\First_Class\Debug\Class.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Labs\Git\First_Class\Debug\Class.lib" /MACHINE:X86 Debug\1.obj
+         LINK : не найден или не выполнена сборка F:\Labs\Git\First_Class\Debug\Class.exe при последней инкрементной компоновке; выполняется полная компоновка
+         Class.vcxproj -> F:\Labs\Git\First_Class\Debug\Class.exe
        Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Labs\Git\Class\Debug\Class.exe;#1" /manifest Debug\Class.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Labs\Git\First_Class\Debug\Class.exe;#1" /manifest Debug\Class.exe.intermediate.manifest
        FinalizeBuildStatus:
          Файл "Debug\Class.unsuccessfulbuild" удаляется.
          Обращение к "Debug\Class.lastbuildstate".
-     1>Построение проекта "F:\Labs\Git\Class\Class\Class.vcxproj" завершено (целевые объекты build).
+     1>Построение проекта "F:\Labs\Git\First_Class\Class\Class.vcxproj" завершено (целевые объекты build).
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:01.82
+Затраченное время: 00:00:00.87

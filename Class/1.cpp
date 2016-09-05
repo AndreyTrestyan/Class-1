@@ -6,6 +6,7 @@ class Hello {
   
   private : 
 	char name[80];
+	int age;
 
   public:
 	int var1, var2;
@@ -17,6 +18,13 @@ class Hello {
 		cout << "Hello World, " << name <<  endl;
 	}
 
+	void Age(){
+		cout << "What is your age?" << endl;
+		cin >> age;
+		cout << "Hmm , " << age << "........" << endl;
+
+	}
+
 };
 
 
@@ -24,6 +32,7 @@ class Hello {
 int main () {
   Hello test;
   test.HelloWorld();
+  test.Age();
 
   system("pause");
   return 0;
